@@ -3,10 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-    font-family:  Helvetica;
-}
+body {background-color: black;}
 
-td {
-    font-family:  Helvetica;
+body {
+  color: white;
 }
