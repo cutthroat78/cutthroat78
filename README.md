@@ -1,4 +1,4 @@
-- [Github](https://github.com/cutthroat78)
+- [GitHub](https://github.com/cutthroat78)
 - [Blog Posts](#posts)
 - [Projects](#projects)
 - [Associations](#associations)
