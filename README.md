@@ -12,9 +12,7 @@ This website contains (a small amount of) details about me and what I do and con
 
 ## Posts
 
-- ##/##/#### - Category: [Title]()
-- [##/##/#### - Category: Title]()
-<!--##/##/#### - Category: Title-->
+<!--[##/##/#### - Category: Title]()-->
 
 ## Projects
 
