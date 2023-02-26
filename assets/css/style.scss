@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-body {background-color: black;}
+body {}
 
 body {
+  background-color: black;
   color: white;
+  text-align: center;
 }
