@@ -1,5 +1,5 @@
 - [Github](https://github.com/cutthroat78)
-- [Posts](#posts)
+- [Blog Posts](#posts)
 - [Projects](#projects)
 - [Associations](#associations)
 
