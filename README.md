@@ -1,5 +1,5 @@
 - [GitHub](https://github.com/cutthroat78)
-- [Blog Posts](#posts)
+- [Blog Posts](#blog-posts)
 - [Projects](#projects)
 - [Associations](#associations)
 
@@ -10,7 +10,7 @@ This website contains (a small amount of) details about me and what I do and con
 - Updates on My Projects
 - Anything Else I Feel Like Writing About
 
-## Posts
+## Blog Posts
 
 <!--[##/##/#### - Category: Title]()-->
 
