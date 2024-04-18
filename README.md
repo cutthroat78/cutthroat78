@@ -1,1 +1,1 @@
-[My Website (& Digital Garden)](https://sionnach.xyz)
+[My Website](https://sionnach.xyz)
